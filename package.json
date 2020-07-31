@@ -84,7 +84,7 @@
     "prop-types": "^15.7.2",
     "react-data-grid": "^5.0.5",
     "react-visibility-sensor": "^5.1.1",
-    "three": "0.85.2",
+    "three": "0.118.3",
     "xlsx": "^0.10.1"
   },
   "peerDependencies": {
